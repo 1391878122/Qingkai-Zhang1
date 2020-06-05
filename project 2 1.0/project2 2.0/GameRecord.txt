@@ -1,0 +1,57 @@
+***********************Game Record**********************
+Round 1 :
+You Win!!
+Dealer POINT is 22
+Dealercard in Sequence:    7   7   8
+Player POINT is 16
+Playercard in Sequence:    1   7   8
+
+Round 2 :
+The Point is Equal!!
+Dealer POINT is 18
+Dealercard in Sequence:    1   2   5
+Player POINT is 18
+Playercard in Sequence:    5   6   7
+
+Round 3 :
+You Win!!
+Dealer POINT is 23
+Dealercard in Sequence:    1   2   3   7  10
+Player POINT is 15
+Playercard in Sequence:    2   3  10
+
+Round 4 :
+You Lose!!
+Dealer POINT is 24
+Dealercard in Sequence:    4   7  10  10  10
+Player POINT is 28
+Playercard in Sequence:    1   8   9
+
+Round 5 :
+You Lose!!
+Dealer POINT is 19
+Dealercard in Sequence:    1   2   4   4   8
+Player POINT is 9
+Playercard in Sequence:    4   5
+
+Round 6 :
+You Lose!!
+Dealer POINT is 21
+Dealercard in Sequence:    1   2   8
+Player POINT is 14
+Playercard in Sequence:    4   5   5
+
+Round 7 :
+You Win!!
+Dealer POINT is 30
+Dealercard in Sequence:   10  10  10
+Player POINT is 15
+Playercard in Sequence:    3   4   8
+
+Round 8 :
+You Lose!!
+Dealer POINT is 26
+Dealercard in Sequence:    8   8  10
+Player POINT is 22
+Playercard in Sequence:    4   8  10
+
